@@ -1,4 +1,4 @@
-[](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240930T135549Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=527a940b7e05dcb5f2a74ffaba1d3bbbbf87e421545ab06cff5776a97650d982)
+![project Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240930T135549Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=527a940b7e05dcb5f2a74ffaba1d3bbbbf87e421545ab06cff5776a97650d982)
 
 ## Resources
 
